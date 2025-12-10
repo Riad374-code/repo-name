@@ -30,3 +30,4 @@ for row in data:
 ## Commit your changes in the database
 connection.commit()
 connection.close()
+
